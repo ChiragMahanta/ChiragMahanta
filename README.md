@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jarvish AI<br>👯 I’m looking to collaborate on: Projects<br>🤝 I’m looking for help with: Algorithms<br>🌱 I’m currently learning programming.<br>⚡ Fun fact: Curious
+🔭 I’m currently working on Jarvish AI<br>👯 I’m looking to collaborate on: Projects<br>🤝 I’m looking for help with: Algorithms<br>🌱 I’m currently learning programming.<br>⚡ Fun fact: Curious person
 
 
 ## 🌐 Socials:
